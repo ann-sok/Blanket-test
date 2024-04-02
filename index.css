@@ -51,14 +51,14 @@ body {
   }
 }
 .hero {
-  background-image: url(/images/bg-stars-m.png);
+  background-image: url(./images/bg-stars-m.png);
   background-image: -webkit-image-set(
-    url(/images/bg-stars-m.webp),
-    url(/images/bg-stars-m.png)
+    url(./images/bg-stars-m.webp),
+    url(./images/bg-stars-m.png)
   );
   background-image: image-set(
-    url(/images/bg-stars-m.webp) type("image/webp"),
-    url(/images/bg-stars-m.png) type("image/png")
+    url(./images/bg-stars-m.webp) type("image/webp"),
+    url(./images/bg-stars-m.png) type("image/png")
   );
   background-color: #333087;
   background-repeat: no-repeat;
@@ -69,14 +69,14 @@ body {
 }
 @media (max-width: 320px) {
   .hero {
-    background-image: url(/images/bg-stars-s.png);
+    background-image: url(./images/bg-stars-s.png);
     background-image: -webkit-image-set(
-      url(/images/bg-stars-s.webp),
-      url(/images/bg-stars-s.png)
+      url(./images/bg-stars-s.webp),
+      url(./images/bg-stars-s.png)
     );
     background-image: image-set(
-      url(/images/bg-stars-s.webp) type("image/webp"),
-      url(/images/bg-stars-s.png) type("image/png")
+      url(./images/bg-stars-s.webp) type("image/webp"),
+      url(./images/bg-stars-s.png) type("image/png")
     );
     background-position-y: top;
     background-size: 100%;
@@ -89,7 +89,7 @@ body {
 }
 @media (min-width: 1025px) {
   .hero {
-    background-image: url(/images/bg-stars-l.png);
+    background-image: url(./images/bg-stars-l.png);
   }
 }
 @media (min-width: 1200px) {
@@ -560,14 +560,14 @@ body {
   }
 }
 .bottom {
-  background-image: url(/images/bg-cloud-m.png);
+  background-image: url(./images/bg-cloud-m.png);
   background-image: -webkit-image-set(
-    url(/images/bg-cloud-m.webp),
-    url(/images/bg-cloud-m.png)
+    url(./images/bg-cloud-m.webp),
+    url(./images/bg-cloud-m.png)
   );
   background-image: image-set(
-    url(/images/bg-cloud-m.webp) type("image/webp"),
-    url(/images/bg-cloud-m.png) type("image/png")
+    url(./images/bg-cloud-m.webp) type("image/webp"),
+    url(./images/bg-cloud-m.png) type("image/png")
   );
   background-color: #333087;
   background-repeat: no-repeat;
@@ -579,14 +579,14 @@ body {
 }
 @media (max-width: 320px) {
   .bottom {
-    background-image: url(/images/bg-cloud-s.png);
+    background-image: url(./images/bg-cloud-s.png);
     background-image: -webkit-image-set(
-      url(/images/bg-cloud-s.webp),
-      url(/images/bg-cloud-s.png)
+      url(./images/bg-cloud-s.webp),
+      url(./images/bg-cloud-s.png)
     );
     background-image: image-set(
-      url(/images/bg-cloud-s.webp) type("image/webp"),
-      url(/images/bg-cloud-s.png) type("image/png")
+      url(./images/bg-cloud-s.webp) type("image/webp"),
+      url(./images/bg-cloud-s.png) type("image/png")
     );
     background-position-y: bottom;
   }
@@ -599,14 +599,14 @@ body {
 }
 @media (min-width: 1025px) {
   .bottom {
-    background-image: url(/images/bg-cloud-l.png);
+    background-image: url(./images/bg-cloud-l.png);
     background-image: -webkit-image-set(
-      url(/images/bg-cloud-l.webp),
-      url(/images/bg-cloud-l.png)
+      url(./images/bg-cloud-l.webp),
+      url(./images/bg-cloud-l.png)
     );
     background-image: image-set(
-      url(/images/bg-cloud-l.webp) type("image/webp"),
-      url(/images/bg-cloud-l.png) type("image/png")
+      url(./images/bg-cloud-l.webp) type("image/webp"),
+      url(./images/bg-cloud-l.png) type("image/png")
     );
   }
 }
